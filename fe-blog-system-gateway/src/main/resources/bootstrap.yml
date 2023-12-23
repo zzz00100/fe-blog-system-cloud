@@ -1,0 +1,16 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: localhost:8848
+        namespace: 192099489
+        username: nacos
+        password: nacos
+        prefix: fe-blog-gateway
+        file-extension: yml
+        group: FE_BLOG
+      discovery:
+        namespace: 192099489
+        group: FE_BLOG
+        service: fe-gateway
+
