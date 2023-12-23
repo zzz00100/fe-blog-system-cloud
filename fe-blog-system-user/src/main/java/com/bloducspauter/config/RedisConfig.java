@@ -19,4 +19,4 @@ public class RedisConfig {
         redisTemplate.setHashValueSerializer(RedisSerializer.json());
         return  redisTemplate;
     }
-}
+}11
