@@ -2,7 +2,7 @@
 
 此博客系统是改自FE-个人博客,用于三阶段项目课程设计；原作者地址：
 
-[FE-博客系统]: https://gitee.com/gu_jun_mo/fe-blog-system
+[FE-博客系统](https://gitee.com/gu_jun_mo/fe-blog-system)
 
 具体更改如下（1.0~1.2是数据库课程时写的，不想改了--->一个项目两个课设，咳咳）
 
