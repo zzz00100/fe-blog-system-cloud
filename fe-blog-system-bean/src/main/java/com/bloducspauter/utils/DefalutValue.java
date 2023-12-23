@@ -18,13 +18,6 @@ public class DefalutValue {
             , "fm11.jpg", "HT.jpg");
 
 
-    public static final String PROJECT_WEB_PATH = System.getProperty("user.dir") + "\\src\\main\\resources\\static\\";
-
-
-    public static final String COMPLIED_PROJECT_PATH = System.getProperty("user.dir") + "\\target\\classes\\static\\";
-
-
-
     public static final String MEDIA_IMAGE_TYPE = "image";
 
     public static final String MEDIA_AUDIO_TYPE = "music";
